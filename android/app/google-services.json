@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "946865489952",
+      "project_id": "flutter-chat-test-99f5f",
+      "storage_bucket": "flutter-chat-test-99f5f.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:946865489952:android:9b885c06bc17ec14e15445",
+          "android_client_info": {
+            "package_name": "amarin.chat.app"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
